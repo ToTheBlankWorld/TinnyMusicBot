@@ -3,7 +3,7 @@
  * 
  * @fileoverview 
  * @version 1.0.0
- * @author GlaceYT
+ * @author Ares
  */
 
 const DiscordRESTClientManager = require('discord.js').REST;
