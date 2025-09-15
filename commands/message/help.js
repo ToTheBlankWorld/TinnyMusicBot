@@ -60,7 +60,7 @@ module.exports = {
                 .setTitle('📖 Ultimate Music Bot - Command List')
                 .setColor(0x1DB954)
                 .setDescription(description)
-                .setFooter({ text: 'Developed by GlaceYT | https://glaceyt.com' })
+                .setFooter({ text: 'Developed by Ares | https://last-panel.gleeze.com/devil/connect' })
                 .setTimestamp();
 
             await message.reply({ embeds: [embed] });
