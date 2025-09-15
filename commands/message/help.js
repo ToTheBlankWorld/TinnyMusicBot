@@ -57,10 +57,10 @@ module.exports = {
             }
 
             const embed = new EmbedBuilder()
-                .setTitle('📖 Ultimate Music Bot - Command List')
+                .setTitle('📖 Ares Music Bot - Command List')
                 .setColor(0x1DB954)
                 .setDescription(description)
-                .setFooter({ text: 'Developed by Ares | https://last-panel.gleeze.com/devil/connect' })
+                .setFooter({ text: 'Developed by Ares | .....' })
                 .setTimestamp();
 
             await message.reply({ embeds: [embed] });

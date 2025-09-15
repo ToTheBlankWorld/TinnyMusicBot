@@ -35,7 +35,7 @@ module.exports = {
                     `• **Uptime:** ${hours}h ${minutes}m ${seconds}s`
                 )
                 .setTimestamp()
-                .setFooter({ text: 'Ultimate Music Bot • Developed by Ares' });
+                .setFooter({ text: 'Ares Music Bot • Developed by Ares' });
 
             await message.reply({ embeds: [embed] });
         } catch (error) {

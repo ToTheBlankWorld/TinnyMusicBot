@@ -27,10 +27,10 @@ module.exports = {
                     'Need help or have questions? Join our official support server:\n' +
                     '[Support Server](https://discord.gg/xQF9f9yUEM)\n\n' +
                     'For direct inquiries, contact: **Ares**\n\n' +
-                    'Website: https://last-panel.gleeze.com/devil/connect'
+                    'Website: .......'
                 )
                 .setTimestamp()
-                .setFooter({ text: 'Ultimate Music Bot • Developed by Ares' });
+                .setFooter({ text: 'Ares Music Bot • Developed by Ares' });
             
             await message.reply({ embeds: [embed] });
         } catch (error) {
