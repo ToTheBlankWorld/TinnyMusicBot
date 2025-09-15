@@ -1,5 +1,5 @@
 /**
- * Ultimate Music Bot - 
+ * Ares Music Bot - 
  * 
  * @fileoverview 
  * @module ConfigurationManager

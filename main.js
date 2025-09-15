@@ -1,5 +1,5 @@
 /**
- * Ultimate Music Bot 
+ * Ares Music Bot 
  * Comprehensive Discord Bot
  * 
  * @fileoverview Core application
